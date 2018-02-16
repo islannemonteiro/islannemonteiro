@@ -8,8 +8,11 @@ Criando **minha**, _página_, ~~principal~~.
 
 18, 084 - Aluna do 3° ano do cruso Programações Digitais do IFRN/Ceará Mirim.
 
+## Contatos
+
 [![](face.png)](https://www.facebook.com/islanne.monteiro)
 [![](insta.png)](https://www.instagram.com/islannemont/)
+
 # Portfólio
 
 ## Games
