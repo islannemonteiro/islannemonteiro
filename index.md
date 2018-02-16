@@ -4,7 +4,7 @@ layout: default
 
 Criando **minha**, _página_, ~~principal~~.
 
-# Quem sou eu 
+# Quem sou eu
 
 18, 084 - Aluna do 3° ano do cruso Programações Digitais do IFRN/Ceará Mirim.
 
