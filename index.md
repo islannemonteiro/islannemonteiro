@@ -6,7 +6,7 @@ Criando **minha**, _página_, ~~principal~~.
 
 # Quem sou eu 
 
-Aluninha de Jogos, aprendendo a fazer portfólio com o prof. maravilhoso Marcelo!
+18, 084 - Aluna do 3° ano do cruso Programações Digitais do IFRN/Ceará Mirim.
 
 [![](face.png)](https://www.facebook.com/islanne.monteiro)
 [![](insta.png)](https://www.instagram.com/islannemont/)
