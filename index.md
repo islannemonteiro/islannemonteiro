@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+---
+layout: default
+---
 
-You can use the [editor on GitHub](https://github.com/islannemonteiro/islannemonteiro/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Criando **minha**, _página_, ~~principal~~.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Quem sou eu 
 
-### Markdown
+Aluninha de Jogos, aprendendo a fazer portfólio com o prof. maravilhoso Marcelo!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[![](Fb.png)](https://www.facebook.com/profile.php?id=100003718041099)
 
-```markdown
-Syntax highlighted code block
+# Portfólio
 
-# Header 1
-## Header 2
-### Header 3
+## Games
 
-- Bulleted
-- List
+[![](Cacique.png)](https://maalu.github.io/Cacique/)
 
-1. Numbered
-2. List
+[![](SkyOrHell.png)](https://maalu.github.io/JogoSkyOrHelll/)
 
-**Bold** and _Italic_ and `Code` text
+[Time IF](https://ortegagamer.github.io/GAMES/TimeIF/)
 
-[Link](url) and ![Image](src)
-```
+[Texto que vai aparecer](link)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Artes
 
-### Jekyll Themes
+![Snap](https://i.pinimg.com/originals/83/13/af/8313afd5cfeb799e37cb5c5c7e58c516.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/islannemonteiro/islannemonteiro/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Sorvete](https://i.pinimg.com/736x/c6/cc/34/c6cc3499b42a7019598df83478cf3822.jpg)
 
-### Support or Contact
+## Projetos
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Proj Tower Defense
+* Proj TPM
+* Proj jogos
+
+1. Marcelo
+2. Saulo
+3. Idelmárcia
+* * *
+
+** negrito  
+_ itálico  
+~~ riscado  
+3* separados por espaço - linha horizontal  
+#s uma ou mais hashtsges criam capítulos ou subcapítulos
+*s asterico cria lista não ordenada
+nºs número seguido de pontuação cria lista ordenada
+
+* * *
