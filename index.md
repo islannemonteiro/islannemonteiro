@@ -8,8 +8,8 @@ Criando **minha**, _página_, ~~principal~~.
 
 Aluninha de Jogos, aprendendo a fazer portfólio com o prof. maravilhoso Marcelo!
 
-[![](Fb.png)](https://www.facebook.com/profile.php?id=100003718041099)
-
+[![](face.png)](https://www.facebook.com/islanne.monteiro)
+[![](insta.png)](https://www.instagram.com/islannemont/)
 # Portfólio
 
 ## Games
