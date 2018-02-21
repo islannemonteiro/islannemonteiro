@@ -17,7 +17,7 @@ Criando **minha**, _página_, ~~principal~~.
 
 ## Games
 
-[![](domi.png)](https://joozi.github.io/Domination/)
+[![](domi1.png)](https://joozi.github.io/Domination/)
 
 (https://joozi.github.io/Domination/)
 
