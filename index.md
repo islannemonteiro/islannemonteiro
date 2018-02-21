@@ -18,8 +18,8 @@ Criando **minha**, _página_, ~~principal~~.
 ## Games
 
 [![](domi1.png)](https://joozi.github.io/Domination/)
+[![](Raís.png)](https://rafaelapaivva.github.io/Rais/index)
 
-(https://joozi.github.io/Domination/)
 
 [![](SkyOrHell.png)](https://maalu.github.io/JogoSkyOrHelll/)
 
