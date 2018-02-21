@@ -8,7 +8,7 @@ Criando **minha**, _página_, ~~principal~~.
 ---- Islanne Monteiro ---- 
 18, 084, AÇAÍ - Aluna do 3° ano do cruso Programações Digitais do IFRN/Ceará Mirim.
 
-![EU.jpg]
+![EU.jpg](EU.jpg)
 
 
 ## Contatos
