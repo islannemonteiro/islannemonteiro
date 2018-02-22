@@ -30,7 +30,7 @@ Criando **minha**, _página_, ~~principal~~.
 
 [![](is2.jpg)](is2.jpg)
 
-![is2.jpg](is2.jpg)
+
 
 
 ## Projetos
