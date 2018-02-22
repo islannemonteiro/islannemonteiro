@@ -28,14 +28,20 @@ Criando **minha**, _página_, ~~principal~~.
 
 ![321.png](321.png)
 
-[![](is2.jpg)](is2.jpg)
-
+![is2.jpg](is2.jpg)
 
 
 
 ## Projetos
 
-* Proj Tower Defense
+1. Tower Defense
+O objetivo de jogos de tower defense é tentar impedir que inimigos percorram por um mapa por meio de armadilhas para atrasá-los e torres (ou turrets) que atiram neles enquanto passam. 
+Orientador: Marcelo Barbosa
+
+2. Porque os jovens são mais propiços a doenças sexuamente transmissiveis?
+Projeto desenvolvido em forma de pesquisa, visando investigar e explicar as causas pelas quais os jovens estão adiquirando as DST'S cada vez mais cedo. 
+Orientação de Videany Videnove.
+
 
 
 1. Marcelo
