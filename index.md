@@ -10,7 +10,7 @@ Criando **minha**, _página_, ~~principal~~.
    
 ## Contatos
 
-[![](111.png)](https://www.facebook.com/islanne.monteiro) [![](222.png)](https://www.instagram.com/islannemont/)
+[![](face.png)](https://www.facebook.com/islanne.monteiro) [![](inta.png)](https://www.instagram.com/islannemont/)
 
 # Portfólio
 
