@@ -27,11 +27,11 @@ Criando **minha**, _página_, ~~principal~~.
 [Texto que vai aparecer](link)
 
 ## Artes
-[![](123.png)]
 
-![Snap](https://i.pinimg.com/originals/83/13/af/8313afd5cfeb799e37cb5c5c7e58c516.png)
+![123.jpg](123.jpg)
 
-![Sorvete](https://i.pinimg.com/736x/c6/cc/34/c6cc3499b42a7019598df83478cf3822.jpg)
+![321.jpg](321.jpg)
+
 
 ## Projetos
 
