@@ -20,17 +20,11 @@ Criando **minha**, _página_, ~~principal~~.
 [![](Raís.png)](https://rafaelapaivva.github.io/Rais/index)
 
 
-[![](SkyOrHell.png)](https://maalu.github.io/JogoSkyOrHelll/)
-
-[Time IF](https://ortegagamer.github.io/GAMES/TimeIF/)
-
 [Texto que vai aparecer](link)
 
 ## Artes
 
 ![123.jpg](123.jpg)
-
-
 
 ![321.jpg](321.jpg)
 
@@ -39,8 +33,7 @@ Criando **minha**, _página_, ~~principal~~.
 ## Projetos
 
 * Proj Tower Defense
-* Proj TPM
-* Proj jogos
+
 
 1. Marcelo
 2. Saulo
