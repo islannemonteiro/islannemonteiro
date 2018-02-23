@@ -1,9 +1,7 @@
 
-Criando **minha**, _página_, ~~principal~~.
-
 # Quem sou eu?
    **Islanne Monteiro**
-18, 084, AÇAÍ - Aluna do 3° ano do cruso Programações Digitais do IFRN/Ceará Mirim.
+18, 084,- Aluna do 3° ano do cruso Programações Digitais do IFRN/Ceará Mirim.
 
 ![EU.jpg](EU.jpg)
 
@@ -24,9 +22,7 @@ Criando **minha**, _página_, ~~principal~~.
 
 ## Artes
 
-![123.png](123.png)
-
-![321.png](321.png)
+![123.png](123.png) ![321.png](321.png)
 
 ![is2.jpg](is2.jpg)
 
