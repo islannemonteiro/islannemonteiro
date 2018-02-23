@@ -9,7 +9,8 @@
 ## Contatos
  
 [![](face12.png)](https://www.facebook.com/islanne.monteiro) [![](iss.png)](https://www.instagram.com/islannemont/)
-[![](email.png)](https://www.facebook.com/islanne.monteiro)
+                           _Email: islannemonteiro123@gmail.com
+
 
 # Portfólio
 
@@ -40,7 +41,6 @@ Orientação de Videany Videnove.
 
 [Clic para baixaro o arquivo.](Projetobiologia.docx)
 
-**Email: islannemonteiro123@gmail.com
 
 1. Marcelo
 2. Saulo
