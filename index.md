@@ -40,6 +40,6 @@ Orientação de Marcelo Barbosa.
 - Projeto desenvolvido em forma de pesquisa, visando investigar e explicar as causas pelas quais os jovens estão adiquirando as DST'S cada vez mais cedo. 
 Orientação de Videany Videnove.
 
-[Click para baixar o o arquivo.](Projetobiologia.docx)
+[Click para baixar o arquivo.](Projetobiologia.docx)
 
 ----------- Obrigada pela atenção! -----------
