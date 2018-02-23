@@ -14,8 +14,8 @@
 
 ## Games
 
-[![](domi1.png)](https://joozi.github.io/Domination/)
-[![](Raís.png)](https://rafaelapaivva.github.io/Rais/index)
+[![](domi2.png)](https://joozi.github.io/Domination/)
+[![](rais1.png)](https://rafaelapaivva.github.io/Rais/index)
 
 
 [Texto que vai aparecer](link)
