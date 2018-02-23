@@ -9,7 +9,7 @@
 ## Contatos
  
 [![](face12.png)](https://www.facebook.com/islanne.monteiro) [![](iss.png)](https://www.instagram.com/islannemont/)          
-                    -  _Email: islannemonteiro123@gmail.com_
+- _Email: islannemonteiro123@gmail.com_
 
 
 # Portfólio
@@ -29,7 +29,8 @@
 
 ## Projetos
 
-1. Tower Defense. - O objetivo de jogos de tower defense é tentar impedir que inimigos percorram por um mapa por meio de armadilhas para atrasá-los e torres (ou turrets) que atiram neles enquanto passam. 
+1. Tower Defense.
+- O objetivo de jogos de tower defense é tentar impedir que inimigos percorram por um mapa por meio de armadilhas para atrasá-los e torres (ou turrets) que atiram neles enquanto passam. 
 Orientador: Marcelo Barbosa.
 
 [Click para baixar o jogo(Conctruct2).](tower.capx)
