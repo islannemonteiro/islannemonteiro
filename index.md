@@ -38,6 +38,7 @@ Orientação de Marcelo Barbosa.
 
  "Porque os jovens são mais propiços a doenças sexuamente transmissiveis?"
 - Projeto desenvolvido em forma de pesquisa, visando investigar e explicar as causas pelas quais os jovens estão adiquirando as DST'S cada vez mais cedo. 
+
 Orientação de Videany Videnove.
 
 [Click para baixar o arquivo.](Projetobiologia.docx)
