@@ -30,6 +30,7 @@ Criando **minha**, _página_, ~~principal~~.
 
 ![is2.jpg](is2.jpg)
 
+![abc.png](abc.png)
 
 
 ## Projetos
@@ -38,14 +39,15 @@ Criando **minha**, _página_, ~~principal~~.
 O objetivo de jogos de tower defense é tentar impedir que inimigos percorram por um mapa por meio de armadilhas para atrasá-los e torres (ou turrets) que atiram neles enquanto passam. 
 Orientador: Marcelo Barbosa.
 
-[Baixar jogo(Conctruct)](tower.capx)
+[Clic para baixar o jogo(Conctruct2).](tower.capx)
 
 2. "Porque os jovens são mais propiços a doenças sexuamente transmissiveis?"
 Projeto desenvolvido em forma de pesquisa, visando investigar e explicar as causas pelas quais os jovens estão adiquirando as DST'S cada vez mais cedo. 
 Orientação de Videany Videnove.
 
-[Baixar arquivo](Projetobiologia.docx)
+[Clic para baixaro o arquivo.](Projetobiologia.docx)
 
+**Email: islannemonteiro123@gmail.com
 
 1. Marcelo
 2. Saulo
