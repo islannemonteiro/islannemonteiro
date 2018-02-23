@@ -16,9 +16,7 @@
 
 [![](domi2.png)](https://joozi.github.io/Domination/)
 [![](rais1.png)](https://rafaelapaivva.github.io/Rais/index)
-
-
-[Texto que vai aparecer](link)
+[![](random.png)](jadsamiamedeiros.github.io/randomquiz/)
 
 ## Artes
 
