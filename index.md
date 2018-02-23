@@ -9,7 +9,7 @@
 ## Contatos
  
 [![](face12.png)](https://www.facebook.com/islanne.monteiro) [![](iss.png)](https://www.instagram.com/islannemont/)
-[![](imail.png)](https://www.facebook.com/islanne.monteiro)
+[![](email.png)](https://www.facebook.com/islanne.monteiro)
 
 # Portfólio
 
