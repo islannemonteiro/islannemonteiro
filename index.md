@@ -1,7 +1,7 @@
 
 # Quem sou eu?
    **Islanne Monteiro**
-- 18, 084. Aluna do 3° ano do cruso Programações Digitais do IFRN/Ceará Mirim.
+- 18, 084. Academica em Programação de Jogos Digitais do IFRN/Ceará Mirim, 3° ano.
 
 ![EU.jpg](EU.jpg)
 
